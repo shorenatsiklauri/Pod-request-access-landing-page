@@ -9,7 +9,7 @@ body {
   font-family: 'Chivo', sans-serif;
   color: white;
   font-size: 18px;
-  background-image: url("./assets/mobile/image-host.jpg");
+  background-image: url("./starter-code/assets/mobile/image-host.jpg");
   background-color: #121725;
   mix-blend-mode: screen;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@ body {
 }
 
 .headerbox svg {
-  /* width: 134px; */
+  
   margin: 62px auto;
   display: block;
 }
@@ -143,7 +143,7 @@ footer {
     background-blend-mode: normal;
     background-size: 64%;
     background-position: right top;
-    background-image: url("./assets/tablet/image-host.jpg");
+    background-image: url("./starter-code/assets/tablet/image-host.jpg");
   }
   main {
     width: 100%;
