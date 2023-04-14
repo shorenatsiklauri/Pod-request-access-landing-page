@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/starter-code/index.html)
+- Live Site URL:(https://shorenatsiklauri.github.io/pod-request-access-landing-page/)
 
 ## My process
 
